@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Micra Bold';
+	src: url('fonts/Micra-Bold.eot');
+	src: local('Micra Bold'), local('Micra-Bold'),
+		url('fonts/Micra-Bold.eot?#iefix') format('embedded-opentype'),
+		url('fonts/Micra-Bold.woff') format('woff'),
+		url('fonts/Micra-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+#canvas {
+	max-width: 100%;
+}
